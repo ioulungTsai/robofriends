@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Cocogoose Pro Inline';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Cocogoose Pro Inline'), url('Cocogoose Pro Inline Trial.woff') format('woff');
+  }
+
+h1 {
+  font-family: 'Cocogoose Pro Inline';
+  font-weight: 100;
+  color: #07928d;
+}

@@ -1,5 +1,5 @@
 # robofriends
-Modified from udemy course - React
+Modified from [this udemy course](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/) - React
 To run the project:
 
 1. Clone this repo
